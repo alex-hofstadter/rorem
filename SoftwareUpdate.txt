@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Add horizontal Mosaic3 augmentation (#6898)
